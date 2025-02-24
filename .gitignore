@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files
+.vs/
+.vscode/
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore other temporary files
+*.tmp
